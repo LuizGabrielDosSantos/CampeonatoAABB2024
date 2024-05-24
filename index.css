@@ -1,174 +1,174 @@
 /* PagInicial.css */
 
 body {  
-    background-color: blue;
-    margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
+  background-color: blue;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
 }
 
 .info-container {
-    color: white;
-    font-size: 20px;
-    background-color: blue;
-    width: 30%;
-    margin: 0 auto;
-    text-align: center;
-    margin-top: 50px;
-    padding-top: 50px;
-    padding-bottom: 50px;
-    padding-left: 25px;
-    padding-right: 25px;
-    text-align: center;
-    border-radius: 10px 10px 10px 10px;
-    box-shadow: 10px 15px 35px rgb(4, 4, 4);
+  color: white;
+  font-size: 20px;
+  background-color: blue;
+  width: 30%;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 25px;
+  padding-right: 25px;
+  text-align: center;
+  border-radius: 10px 10px 10px 10px;
+  box-shadow: 10px 15px 35px rgb(4, 4, 4);
 }
 
 .Titulo{
-    margin-top: 25px;
-    background-color: white;
-    font-size: 25px;
-    text-align: center;
-    border-radius: 10px 10px 10px 10px;
-    
-}
-
-.Titulo button{
-  font-size: 20px;
-  background-color: blue;
-  color: white;
-  border: none;
-  padding: 5px 10px;
-  margin-left: 10px;
-  margin-bottom: 10px;
-  border-radius: 10px;
-  cursor: pointer;
-}
-
-table{
-    background-color: white;
-    margin: 0 auto;
-    font-size: 15px;
-    border: 1px solid black;
-    border-collapse: collapse;
-    border-spacing: 0;
-    padding: 5px;
-    text-align: left;
-}
-th, td{
-    border: 1px solid black;
-    padding: 5px;
-    width: 10%;
-}
-
-footer{
-    margin-top: 100px;
-    padding-left: 25px;
-    padding-top: 25px;
-    padding-bottom: 25px;
-    padding-right: 25px;
-    background-color: black;
-}
-
-.tabela-personalizada {
-    border-collapse: collapse;
-    width: 100%;
-    box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.19), 20px 20px 20px rgba(0, 0, 0, 0.466);
-  }
-
-  .tabela-personalizada th,.tabela-personalizada td {
-    border: 1px solid #000000;
-    padding: 8px;
-    font-size: 15px;
-    text-align: left;
-  }
-
-  .tabela-personalizada tr:nth-child(even) {
-    background-color: #1900ff96;
-  }
-
-  .tabela-personalizada th {
-    padding-top: 12px;
-    padding-bottom: 12px;
-    text-align: left;
-    background-color: #0a07cc;
-    color: rgb(255, 255, 255);
-  }
-
-  td{
-    background-color: #ffffff;
-  }
-
-  .footer-tabela {
-    margin-top: 45px;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    align-items: center;
-    padding: 20px;
-    background-color: #f2f2f2;
-    border-top: 1px solid #ddd;
-  }
-
-  .col-esquerda,
-  .col-centro,
-  .col-direita {
-
-    padding: 10px;
-  }
-
-  .col-esquerda {
-    text-align: left;
-  }
-
-  .col-centro {
-    text-align: center;
-    font-size: 20px;
-    margin-right: 120px;
-    color: white;
-    background-color: #0a07cc;
-    border-radius: 50px;
-  }
-
- h3{
-  font-size: 15px;
- } 
-
-  .col-direita {
-    text-align: right;
-  }
-
-  .footer-tabela ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-  }
-
-  .footer-tabela li {
-    margin-bottom: 10px;
-  }
-
-  .footer-tabela a {
-    text-decoration: none;
-    color: #337ab7;
-  }
-
-  .footer-tabela a:hover {
-    color: #23527c;
-  }
-
-.rodadas{
- 
+  margin-top: 25px;
+  background-color: white;
+  font-size: 25px;
   text-align: center;
-  padding-top: 25px;
-  padding-bottom: 25px;
-  background-color: rgb(0, 0, 0);
+  border-radius: 10px 10px 10px 10px;
   
 }
 
-p{
+.Titulo button{
+font-size: 20px;
+background-color: blue;
+color: white;
+border: none;
+padding: 5px 10px;
+margin-left: 10px;
+margin-bottom: 10px;
+border-radius: 10px;
+cursor: pointer;
+}
+
+table{
+  background-color: white;
+  margin: 0 auto;
   font-size: 15px;
-  color:rgb(255, 255, 255);
+  border: 1px solid black;
+  border-collapse: collapse;
+  border-spacing: 0;
+  padding: 5px;
+  text-align: left;
+}
+th, td{
+  border: 1px solid black;
+  padding: 5px;
+  width: 10%;
+}
+
+footer{
+  margin-top: 100px;
+  padding-left: 25px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-right: 25px;
+  background-color: black;
+}
+
+.tabela-personalizada {
+  border-collapse: collapse;
+  width: 100%;
+  box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.19), 20px 20px 20px rgba(0, 0, 0, 0.466);
+}
+
+.tabela-personalizada th,.tabela-personalizada td {
+  border: 1px solid #000000;
+  padding: 8px;
+  font-size: 15px;
+  text-align: left;
+}
+
+.tabela-personalizada tr:nth-child(even) {
+  background-color: #1900ff96;
+}
+
+.tabela-personalizada th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #0a07cc;
+  color: rgb(255, 255, 255);
+}
+
+td{
+  background-color: #ffffff;
+}
+
+.footer-tabela {
+  margin-top: 45px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: #f2f2f2;
+  border-top: 1px solid #ddd;
+}
+
+.col-esquerda,
+.col-centro,
+.col-direita {
+
+  padding: 10px;
+}
+
+.col-esquerda {
+  text-align: left;
+}
+
+.col-centro {
+  text-align: center;
+  font-size: 20px;
+  margin-right: 120px;
+  color: white;
+  background-color: #0a07cc;
   border-radius: 50px;
- 
+}
+
+h3{
+font-size: 15px;
+} 
+
+.col-direita {
+  text-align: right;
+}
+
+.footer-tabela ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.footer-tabela li {
+  margin-bottom: 10px;
+}
+
+.footer-tabela a {
+  text-decoration: none;
+  color: #337ab7;
+}
+
+.footer-tabela a:hover {
+  color: #23527c;
+}
+
+.rodadas{
+
+text-align: center;
+padding-top: 25px;
+padding-bottom: 25px;
+background-color: rgb(0, 0, 0);
+
+}
+
+p{
+font-size: 15px;
+color:rgb(255, 255, 255);
+border-radius: 50px;
+
 }
