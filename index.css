@@ -157,3 +157,18 @@ footer{
     color: #23527c;
   }
 
+.rodadas{
+ 
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  background-color: rgb(0, 0, 0);
+  
+}
+
+p{
+  font-size: 15px;
+  color:rgb(255, 255, 255);
+  border-radius: 50px;
+ 
+}
