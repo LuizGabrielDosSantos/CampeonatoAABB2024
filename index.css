@@ -119,13 +119,14 @@ td{
 }
 
 .col-esquerda {
+  font-size: 15px;
   text-align: left;
 }
 
 .col-centro {
   text-align: center;
   font-size: 20px;
-  margin-right: 120px;
+  margin-left: 120px;
   color: white;
   background-color: #0a07cc;
   border-radius: 50px;
@@ -136,6 +137,7 @@ font-size: 15px;
 } 
 
 .col-direita {
+  font-size: 15px;
   text-align: right;
 }
 
